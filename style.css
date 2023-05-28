@@ -1,0 +1,93 @@
+body {
+    font-family: sans-serif;
+    background-color: #80EA69;
+}
+
+.silka {
+    border: 2px solid black;
+    padding: 5 5 5 5;
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    margin-left: 50px;
+    border-radius: 3px;
+}
+
+.logo {
+    width: 50;
+    height: 50;
+    border-radius: 5px;
+}
+
+.kartina {
+    border-radius: 10px;
+    float: right;
+    border: 2px solid black;
+}
+
+.kartina:hover {
+    width: 25%;
+    height: 25%;
+    transition: all 0.5s ease-out;
+}
+
+h1 {
+    text-align: center;
+    font-size: 35px;
+    background-color: #25D500;
+    padding: 15px;
+    border-radius: 50px;
+    border: 2px double black;
+}
+
+h2 {
+    text-align: center;
+    font-size: 30px;
+}
+
+p {
+    font-size: 20px;
+    position: relative;
+    left: 10px;
+    width: 1100px;
+}
+
+ol {
+    font-size: 20px;
+    border: 5px double #A68600;
+    width: 250px;
+    position: relative;
+    left: 50px;
+    border-radius: 5px;
+    background-color: white;
+}
+
+ol:hover {
+    border: 5px double #A0000F;
+}
+
+span {
+    border: 1px solid black;
+    border-radius: 7px;
+    padding: 3px 5px 3px 5px;
+    background-color: white;
+}
+
+footer {
+    border: 3px solid ;
+}
+
+.fig {
+    text-decoration: none;
+    border: 2px solid black;
+    color: black;
+    background-color: white;
+    padding: 5 5 5 5;
+    border-radius: 3px;
+}
+
+.FIG:HOVER {
+    border: 2px solid red;
+    color: red;
+    border-radius: 3px;
+}
